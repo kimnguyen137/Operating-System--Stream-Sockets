@@ -49,4 +49,3 @@ or
 Enter a city name: Brussels
 No data
 ```
-No data
